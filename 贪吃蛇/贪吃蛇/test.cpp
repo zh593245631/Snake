@@ -1,5 +1,4 @@
-#include<iostream>
-
+#include"snake.h"
 using namespace std;
 
 void menu()
@@ -11,8 +10,8 @@ void menu()
 }
 void game()
 {
-	//cout << "game()" << endl;
-
+	system("cls"); // ÇåÆÁ
+	play_game();
 }
 
 void top()

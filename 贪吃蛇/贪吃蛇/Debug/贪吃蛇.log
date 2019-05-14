@@ -1,2 +1,4 @@
 ﻿  test.cpp
+F:\Snake\贪吃蛇\贪吃蛇\snake.h(31): warning C4838: 从“int”转换到“size_t”需要收缩转换
+F:\Snake\贪吃蛇\贪吃蛇\snake.h(84): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
   贪吃蛇.vcxproj -> F:\Snake\贪吃蛇\Debug\贪吃蛇.exe
